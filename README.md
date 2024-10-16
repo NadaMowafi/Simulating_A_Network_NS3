@@ -11,6 +11,7 @@ The network consists of:
 - **Routers**: Three routers are positioned between the two LANs, connected to both LAN 1 and LAN 2 using point-to-point (P2P) links. The routers are aligned horizontally in the middle of the two LANs, facilitating communication between them.
 
 The simulation generates traffic between nodes on LAN 1 and LAN 2 using a UDP Echo Client-Server model. This demonstrates basic communication and routing within the network.
+![Network Topology](network_topology.png)
 
 ## **Key Components**
 
