@@ -1,4 +1,6 @@
 # **Network Simulation using NS-3 with NetAnim Visualization**
+![image](https://github.com/user-attachments/assets/ee852ac9-ce8a-4d3d-9fe7-b6fe81443540)
+
 
 This project simulates a simple network using the NS-3 simulator. The simulation involves two Local Area Networks (LANs), each connected to a central router. The topology and node arrangement are visualized using NetAnim.
 
